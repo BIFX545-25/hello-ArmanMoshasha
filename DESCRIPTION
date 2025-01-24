@@ -1,0 +1,10 @@
+Package: Hello
+Title: Hello World (One Line, Title Case)
+Version: 1.0
+Authors@R: 
+    person("Arman", "Moshasha", email = "Armanmoshasha@gmail.com", role = c("aut", "cre"))
+Description: Hello.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
